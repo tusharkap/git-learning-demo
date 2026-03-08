@@ -1,2 +1,3 @@
-# git-learning-demo
-Learning Git workflow
+# Git Learning Demo
+
+This repository is created to understand Git workflow.
